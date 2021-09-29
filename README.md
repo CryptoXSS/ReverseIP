@@ -12,5 +12,5 @@ Installation:
 Example usage:
     python3 revip.py politie.nl
 
-Screenshot:
+Screenshot:<br><br>
 ![revip](https://user-images.githubusercontent.com/48758770/135222896-19743c73-e6a8-411e-bf7c-47e07898b0cc.png)
