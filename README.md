@@ -9,7 +9,7 @@ Installation:
     cd ReverseIP
     sudo apt update && sudo apt install python3 && sudo apt install python3-pip && pip3 install blessed
     python3 revip.py <url>
-    
+
 Example usage:
     python3 revip.py politie.nl
 
