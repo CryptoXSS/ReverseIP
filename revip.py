@@ -1,7 +1,8 @@
 import requests, sys, subprocess, blessed
 
 # Made by z3ntl3
-
+# RGB Would only work on 256 colored terminals
+# How to get 256 Color on me terminal?: just type: export TERM=xterm-256color
 term = blessed.Terminal()
 d1 = term.color_rgb(200, 20, 245)
 
